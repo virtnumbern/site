@@ -1,0 +1,20 @@
+# Служебные копии и бэкапы данных каталога
+site-data0.js
+site-data1.js
+site-data2.js
+
+# Если хотите полностью скрыть цены и базу от публичного доступа:
+# site-data.js
+# editor-data.js
+
+# Пустые и битые служебные файлы
+ux
+*.zip
+*.tar.gz
+
+# Системный мусор и настройки IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
